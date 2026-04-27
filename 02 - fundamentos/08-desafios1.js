@@ -1,8 +1,7 @@
 let nome = "Ially";
 let idade = 27;
 
-console.log(nome);
-console.log(idade);
+console.log(`${nome} ${idade}`);
 
 let mensagem = "Olá, meu nome é " + nome + " e eu tenho " + idade + " anos.";
 console.log(mensagem);
